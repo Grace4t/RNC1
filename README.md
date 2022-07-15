@@ -8,9 +8,10 @@ En 1943 se creó el primer modelo aceptable de Redes Neuronales Artificiales que
 
 
 ¿Qué es una neurona?
-la neurona consta de Axón (Salida), Dendrita(Entrada), Soma (Proceso)
+La neurona consta de Axón (Salida), Dendrita(Entrada), Soma (Proceso)
+
+
 ![Imagen de una neurona](https://github.com/Grace4t/RNC1/blob/main/img/neurona.PNG)
-[Imagen de una neurona](https://github.com/Grace4t/RNC1/blob/main/img/neurona.PNG)
 
 
 ¿Qué es una red neuronal?
